@@ -1,0 +1,20 @@
+
+These projects represent some of my sole-contributor coding in java and C++
+
+Hunter Seeker:
+
+This project was undertaken as an introductory learning project for java and OOD. The background motivation
+for the project was the development of a robust Extended Kalman Filter for state estimation in a simulated 
+robot with extremely noisy sensor measurements (up to ~2x measurement value) in pursuing and capturing a
+second robot with an unknown trajectory (circular, constant speed motion in this example). This project was
+inspired by an AI for Robotics course offered in Python through Udacity.com, and the matrix math library was
+ported from python source code offered as part of that course.
+
+MonsterEngine:
+
+This project is an ongoing game engine development project undertaken as part of my Master's degree at the 
+University of Utah. Executed in native C++, this project serves as a means of learning Game Engine Architecture
+through implementation. There is a good deal of code here implenting custom memory management, basic physics
+game object life-cycle management etc. All of the contained code is mine, written as the sole contributor except
+for the code in the GLib and Lua libraries which are included as externally linked repositories and built into
+static libraries as part of the project.
